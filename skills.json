@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/?size=100&id=FnTmHRua3mU3&format=png&color=000000"
+    },
+    {
+        "name": "Node JS",
+        "icon": "https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
+    },
+    {
+        "name": "React JS",
+        "icon": "https://img.icons8.com/?size=100&id=8g6WJkjf0vaP&format=png&color=000000"
+    },
+    {
+        "name": "Next JS",
+        "icon": "https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"
+    },
+    {
+        "name": "Three JS",
+        "icon": "https://img.icons8.com/?size=100&id=j0beBVnUo5dZ&format=png&color=000000"
+    },
+    {
+        "name": "DRF",
+        "icon": "https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000"
+    },
+
+    {
+        "name": "Rest API",
+        "icon": "https://img.icons8.com/?size=100&id=Oz14KBnT7lnn&format=png&color=000000"
+    },
+    {
+        "name": "Meta API",
+        "icon": "https://img.icons8.com/?size=100&id=PvvcWRWxRKSR&format=png&color=000000"
+    },
+    {
+        "name": "Telegram API",
+        "icon": "https://img.icons8.com/?size=100&id=112164&format=png&color=000000"
+    },
+
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000"
+    },
+    {
+        "name": "SQLite",
+        "icon": "https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000"
+    },
+
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000"
+    },
+    {
+        "name": "GitLab",
+        "icon": "https://img.icons8.com/?size=100&id=xNOPrIk9lLyq&format=png&color=000000"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"
+    },
+    {
+        "name": "JIRA",
+        "icon": "https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"
+    },
+    {
+        "name": "Slack",
+        "icon": "https://img.icons8.com/?size=100&id=GlTHCtTcectL&format=png&color=000000"
+    },
+    {
+        "name": "Teams",
+        "icon": "https://img.icons8.com/?size=100&id=wl1YeflKcuQQ&format=png&color=000000"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/?size=100&id=mHi46t5vguiz&format=png&color=000000"
+    },
+    {
+        "name": "Stripe",
+        "icon": "https://img.icons8.com/?size=100&id=iouv9vHfqHvP&format=png&color=000000"
+    }
+]
